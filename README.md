@@ -4,6 +4,7 @@
 - HTML 5
 - CSS 3
 - JQuery
+- ADAPTIVE
 - Microdata in schema.org
 
 ## Link:
