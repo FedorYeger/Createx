@@ -5,7 +5,7 @@
 - CSS 3
 - JQuery
 - ADAPTIVE
-- Microdata in schema.org
+- Schema.org
 
 ## Link:
-Can you view [my project](https://FedorYeger.github.io/Createx/)
+Can you view [my project](https://FedorYeager.github.io/Createx/)
